@@ -1,0 +1,1 @@
+These are my implementations on The Odin Project - Ruby Building Blocks exercises
